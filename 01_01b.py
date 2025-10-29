@@ -3,7 +3,7 @@ def count_words(paragraph):
     return
 
 def main():
-    paragraph = """Nadia’s Garden Restaurant is the creation of husband and wife team Nadia and Timothy Arbore. 
+    paragraph = """Nadia’s Gardesn Restaurant is the creation of husband and wife team Nadia and Timothy Arbore. 
     Their American-infused, Italian-based, organically created, cuisine was inspired by Nadia’s papa, an immigrant from Italy, 
     who shared his love of cooking with Nadia as a young girl. His focus on using fresh ingredients and family style dining were 
     the inspiration for Nadia’s Garden Restaurant. Located in the heart of Main Streets Historic District, they are proud to be a 
